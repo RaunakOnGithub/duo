@@ -1,35 +1,44 @@
-# 🎨 Creative Portfolio Website  
+# 🎨 DUO Studio — A design agency
 
 [![Project Screenshot](https://i.postimg.cc/y8pjPg0H/screencapture-127-0-0-1-5500-index-html-2025-09-26-08-45-25.png)](https://postimg.cc/w1JDxBWf)  
 
-A **modern, interactive, and fully responsive portfolio website** built with **HTML, CSS, JavaScript**, styled with **GSAP animations** and **Locomotive Scroll** for smooth scrolling experiences.  
-The site includes engaging sections like hero video, works showcase, client mentions, and a stylish responsive footer.  
+A **modern, interactive, and fully responsive portfolio website** built with **HTML, CSS & JavaScript**, powered by **GSAP animations** and **Locomotive Scroll**.  
+It features smooth scroll effects, animated transitions, a custom cursor with hover previews, and a responsive footer.  
 
 ---
 
 ## 🚀 Live Demo  
-🔗 [View Live Website](#)  
-<!-- Replace # with your GitHub Pages / Vercel / Netlify live link -->
+Check it out here: [duo-studio-one](https://duo-studio-one.vercel.app/)  
 
 ---
 
 ## ✨ Features  
-- 🚀 Smooth scrolling powered by **Locomotive Scroll**  
-- 🎬 Seamless animations with **GSAP (GreenSock)**  
-- 🖱️ Interactive **custom cursor** with hover image previews  
-- 📱 Fully **responsive** (desktop, tablet, mobile)  
-- 🖼️ Project showcase with parallax effects  
-- 📌 Stylish footer with quick links and social media  
+- Smooth scrolling via **Locomotive Scroll**  
+- Engaging animations using **GSAP / GreenSock**  
+- Custom cursor with hover-triggered previews  
+- Fully **responsive** across desktop, tablet, and mobile  
+- Parallax effects in Projects section  
+- Stylish, adaptive footer with links & social icons  
 
 ---
 
 ## 🛠️ Tech Stack  
-- **HTML5** → Semantic and structured markup  
-- **CSS3** → Flexbox, Grid, and media queries for responsive design  
-- **JavaScript (ES6+)** → Core interactivity  
-- **GSAP (GreenSock Animation Platform)** → Animation engine  
-- **Locomotive Scroll** → Smooth scrolling & scroll-based triggers  
+- **HTML5** — semantic structure  
+- **CSS3** — layout, flexbox, grid & responsive via media queries  
+- **JavaScript (ES6+)** — general interactivity  
+- **GSAP (GreenSock Animation Platform)** — for smooth animations  
+- **Locomotive Scroll** — for smooth scrolling + scroll-triggered effects  
 
 ---
 
-## 📂 Project Structure  
+## ⚙️ Installation & Usage  
+
+1. **Clone the repo**  
+   ```bash
+   git clone https://github.com/your-username/duo-studio-one.git
+
+
+---
+
+
+
